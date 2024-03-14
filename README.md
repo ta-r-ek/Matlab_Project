@@ -37,10 +37,10 @@ Enter required values in the command window
 - Enter simulation time: ____
 
 ##### Here's sample screenshot(Input)
-![Input sample](https://buetedu-my.sharepoint.com/personal/2106145_eee_buet_ac_bd/Documents/Matlab%20Project/input.png)
+![input sample](https://github.com/ta-r-ek/Matlab_Project/assets/162335400/376f5d23-4fd6-45fb-b8ed-d5e60d1d210b)
 
 ##### Output simulation plot - 
-![Simulation sample](https://buetedu-my.sharepoint.com/personal/2106145_eee_buet_ac_bd/Documents/Matlab%20Project/output.png)
+![output simulation](https://github.com/ta-r-ek/Matlab_Project/assets/162335400/3cb4ab65-ccc7-4337-8f36-93075cc0975c)
 
 ##### Kinetic Energy vs Time plot -
-![Simulation sample](https://buetedu-my.sharepoint.com/personal/2106145_eee_buet_ac_bd/Documents/Matlab%20Project/energy.png)
+![energy plot](https://github.com/ta-r-ek/Matlab_Project/assets/162335400/611abbb7-5221-4d66-b831-2ff78067114a)
