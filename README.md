@@ -22,9 +22,9 @@ Despite its effectiveness, the numerical model has several limitations:
 
 ### Contribution of Group Members
 Each member of the group contributed to the project in the following ways:
-- Member 1: Implemented the RK4 numerical solver and developed the main simulation loop.
-- Member 2: Designed the graphical visualization of the spring-mass system and integrated it into the simulation.
-- Member 3: Conducted energy analysis of the system, including kinetic and potential energy calculations, and plotted energy graphs.
+**•	Tarek Ahmed (2106145)**: Implemented the RK4 numerical solver, developed the main simulation loop, and conducted energy analysis of the system, including kinetic and potential energy calculations. Additionally, Member 1 was responsible for plotting energy graphs based on the analysis.
+**•	Mahdi Al Muttakin (2106146):** Designed the graphical visualization of the spring-mass system and integrated it into the simulation. Member 2 collaborated closely with Member 1 to ensure seamless integration of the visualization with the simulation loop.
+
 
 ### Input-Output sample
 Enter required values in the command window
